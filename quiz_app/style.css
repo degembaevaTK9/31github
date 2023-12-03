@@ -1,4 +1,6 @@
 header{
     background-color: #296C82;
     color: white;
+    display: flex;
+    flex-direction: column;
 }
